@@ -1,0 +1,28 @@
+# Unbreak
+# > General
+DOMAIN,app.adjust.com,DIRECT
+DOMAIN,app.appsflyer.com,DIRECT
+DOMAIN,bdtj.tagtic.cn,DIRECT
+# > Alibaba
+DOMAIN,log.mmstat.com,DIRECT
+DOMAIN,sycm.mmstat.com,DIRECT
+# > Google
+DOMAIN-SUFFIX,blog.google,DIRECT
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+DOMAIN,clientservices.googleapis.com,DIRECT
+DOMAIN,dl.google.com,DIRECT
+DOMAIN,dl.l.google.com,DIRECT
+DOMAIN,update.googleapis.com,DIRECT
+DOMAIN,translate.googleapis.com,DIRECT
+# >> Paramount+
+# DOMAIN,pubads.g.doubleclick.net,DIRECT
+# > Tencent
+DOMAIN,fairplay.l.qq.com,DIRECT
+DOMAIN,livew.l.qq.com,DIRECT
+DOMAIN,vd.l.qq.com,DIRECT
+DOMAIN,vi.l.qq.com,DIRECT
+# > Strava
+DOMAIN,analytics.strava.com,DIRECT
+# > Umeng
+DOMAIN,msg.umeng.com,DIRECT
+DOMAIN,msg.umengcloud.com,DIRECT
