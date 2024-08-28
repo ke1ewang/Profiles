@@ -6,8 +6,8 @@
 
 | 类别 | 配置 |
 | :------------: | :------------: |
-| 出国版 | [Outbound](https://raw.githubusercontent.com/keelewang/Profiles/master/Surge/Outbound.conf) |
-| 回国版 | [Inbound](https://raw.githubusercontent.com/keelewang/Profiles/master/Surge/Inbound.conf) |
+| 出国版 | [Outbound](https://raw.githubusercontent.com/ke1ewang/Profiles/master/Surge/Outbound.conf) |
+| 回国版 | [Inbound](https://raw.githubusercontent.com/ke1ewang/Profiles/master/Surge/Inbound.conf) |
 
 ## 说明
 
